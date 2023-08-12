@@ -9,3 +9,4 @@ amansnoriya/amansnoriya is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->power login
 id 
+"@molotovtv/react-facebook-login": "3.7.0"
