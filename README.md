@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @amansnoriya
+- 👋 Hi, I’m @free bundle
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 free fire free
 <!---gunskin
-amansnoriya/amansnoriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+amansnoriya/amansnoriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. id pass
 You can click the Preview link to take a look at your changes.
---->power
+--->power login
+id 
